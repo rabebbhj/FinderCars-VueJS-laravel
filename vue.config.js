@@ -1,6 +1,3 @@
-// vue.config.js
-
 module.exports = {
-    outputDir: 'dist'
-  };
-  
+    outputDir: 'build/assets'
+};
